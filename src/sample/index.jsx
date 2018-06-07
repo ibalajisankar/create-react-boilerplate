@@ -8,7 +8,7 @@ class Sample extends Component {
             <div className="App">
             <div className="wrap">
                 <h1 className="hello">
-                Boilerplate with redux , ant design UI kit, less, sass, axios, react router and linting
+                Boilerplate with redux, ant design UI kit, less, sass, axios, react router and linting
                     over ride colors in src/less/var.css       
                 </h1>
                 <Button type="primary">Primary</Button>

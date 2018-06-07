@@ -1,5 +1,5 @@
 import React, {Component} from 'react';
-import logo from '../logo.svg';
+// import logo from '../logo.svg';
 import { Button } from 'antd';
 
 class Sample extends Component {
@@ -8,7 +8,7 @@ class Sample extends Component {
             <div className="App">
             <div className="wrap">
                 <h1 className="hello">
-                Boilerplate with ant design UI kit, less, sass, axios, react router and linting
+                Boilerplate with redux , ant design UI kit, less, sass, axios, react router and linting
                     over ride colors in src/less/var.css       
                 </h1>
                 <Button type="primary">Primary</Button>
